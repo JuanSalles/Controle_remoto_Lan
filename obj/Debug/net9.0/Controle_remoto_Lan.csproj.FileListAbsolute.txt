@@ -1,0 +1,14 @@
+C:\Users\ruan_\OneDrive\Documentos\Controle_remoto_Lan\bin\Debug\net9.0\Controle_remoto_Lan.exe
+C:\Users\ruan_\OneDrive\Documentos\Controle_remoto_Lan\bin\Debug\net9.0\Controle_remoto_Lan.deps.json
+C:\Users\ruan_\OneDrive\Documentos\Controle_remoto_Lan\bin\Debug\net9.0\Controle_remoto_Lan.runtimeconfig.json
+C:\Users\ruan_\OneDrive\Documentos\Controle_remoto_Lan\bin\Debug\net9.0\Controle_remoto_Lan.dll
+C:\Users\ruan_\OneDrive\Documentos\Controle_remoto_Lan\bin\Debug\net9.0\Controle_remoto_Lan.pdb
+C:\Users\ruan_\OneDrive\Documentos\Controle_remoto_Lan\obj\Debug\net9.0\Controle_remoto_Lan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruan_\OneDrive\Documentos\Controle_remoto_Lan\obj\Debug\net9.0\Controle_remoto_Lan.AssemblyInfoInputs.cache
+C:\Users\ruan_\OneDrive\Documentos\Controle_remoto_Lan\obj\Debug\net9.0\Controle_remoto_Lan.AssemblyInfo.cs
+C:\Users\ruan_\OneDrive\Documentos\Controle_remoto_Lan\obj\Debug\net9.0\Controle_remoto_Lan.csproj.CoreCompileInputs.cache
+C:\Users\ruan_\OneDrive\Documentos\Controle_remoto_Lan\obj\Debug\net9.0\Controle_remoto_Lan.dll
+C:\Users\ruan_\OneDrive\Documentos\Controle_remoto_Lan\obj\Debug\net9.0\refint\Controle_remoto_Lan.dll
+C:\Users\ruan_\OneDrive\Documentos\Controle_remoto_Lan\obj\Debug\net9.0\Controle_remoto_Lan.pdb
+C:\Users\ruan_\OneDrive\Documentos\Controle_remoto_Lan\obj\Debug\net9.0\Controle_remoto_Lan.genruntimeconfig.cache
+C:\Users\ruan_\OneDrive\Documentos\Controle_remoto_Lan\obj\Debug\net9.0\ref\Controle_remoto_Lan.dll
